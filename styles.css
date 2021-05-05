@@ -1,4 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  background-color: hsl(185, 75%, 39%); /*Dark Cyan*/
+  font-family: "Kumbh Sans";
+  font-size: 18px;
+  text-align: center;
+}
 
 
 .attribution { 
