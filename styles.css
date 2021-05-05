@@ -15,11 +15,62 @@ body {
 }
 
 h2 {
+  color: hsl(229, 23%, 23%); /* Very Dark Desaturated Blue */
   font-weight: 700;
 }
 
 h3 {
+  color: hsl(227, 10%, 46%); /* Dark Grayish Blue */
   font-weight: 400;
+}
+
+.age {
+  color: hsl(227, 10%, 46%); /* Dark Grayish Blue */
+  font-weight: 400;
+}
+
+.profile_card {
+  /* background: white; */
+  /* margin: 5fr; */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 35% 35% 30%;
+  justify-content: center;
+  align-content: center;
+}
+
+.top_image {
+  background-image: url("images/bg-pattern-card.svg");
+  grid-column: 1 / 1;
+  grid-row: 1 / 1;
+}
+
+.victor {
+  
+}
+
+.name_age_location {
+  background: white;
+  grid-column: 1 / 1;
+  grid-row: 2 / 2;
+}
+
+.stats {
+  grid-column: 1 / 1;
+  grid-row: 3 / 3;
+  /* grid-column: 1 / 1;
+  grid-row: 1 / 2; */
+  display: flex;
+  /* align-items: flex-start; */
+  justify-content: center;
+  flex-direction: row;
+
+}
+
+.followers,
+.likes,
+.photos {
+  align-self: center;
 }
 
 .attribution {
