@@ -85,4 +85,4 @@ Areas in which I would like to continue to focus on in future projects include C
 - LinkedIn - [Clint Maxwell](https://www.linkedin.com/in/maxwellclint/)
 ## Acknowledgments
 
-Special thanks goes to Drull for his continued patience and time spent guiding me on the finer points of HTML and CSS while working on this project.  
+Special thanks goes to [Drull](https://github.com/drull1000) for his continued patience and time spent guiding me on the finer points of HTML and CSS while working on this project.  
