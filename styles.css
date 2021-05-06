@@ -14,12 +14,12 @@ body {
   text-align: center;
 }
 
-h2 {
+h3 {
   color: hsl(229, 23%, 23%); /* Very Dark Desaturated Blue */
   font-weight: 700;
 }
 
-h3, 
+h4, 
 .age {
   color: hsl(227, 10%, 46%); /* Dark Grayish Blue */
   font-weight: 400;
