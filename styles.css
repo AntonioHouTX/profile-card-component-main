@@ -9,7 +9,7 @@ body {
   background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
   background-position: -35% 250%, 125% -225%;
   background-repeat: no-repeat;
-  font-family: "Kumbh Sans";
+  font-family: "Kumbh Sans", sans-serif;
   text-align: center;
 }
 
