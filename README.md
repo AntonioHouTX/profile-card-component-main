@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Responsive Page Using CSS Grid and Flexbox](https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-and-flexbox-SzGKs88IW)
 - Live Site URL: [Profile Card Component](https://antoniohoutx.github.io/profile-card-component-main/index.html)
 
 ## My process
